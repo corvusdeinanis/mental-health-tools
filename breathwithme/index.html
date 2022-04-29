@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Your Moment of Zen</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="main" role="main">
+      <h1>
+        Breathe With Me
+      </h1>
+      <p>
+        Stressed? Anxious? Just need to slow down for a minute and breathe?
+      </p>
+      <p>
+        Click the start button and breathe along with the animation. Breathe in
+        when a number appears; breathe out when the word "relax" appears. If you
+        get interrupted and want to start over before the exercise is complete,
+        click the reset button.
+      </p>
+      <button id="startButton">
+        Start
+      </button>
+      <button id="resetButton">
+        Reset
+      </button>
+      <div class="container" aria-live="polite">
+        <div id="circle" class="circle" aria-live="polite">
+          relax
+        </div>
+      </div>
+      <p id="endMessage"></p>
+    </div>
+    <script src="/script.js" defer></script>
+  </body>
+</html>
