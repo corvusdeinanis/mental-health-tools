@@ -2,7 +2,16 @@
 Mental health tools curated from around the web
 
 
-Some cool links
+<u>Some cool links</u>
+
 https://glitch.com/@MinervaArcher
+
 https://takebackthetech.net/be-safe/self-care-coping-and-healing
+
 https://selfcare.tech
+
+https://well-app.netlify.app/#/
+
+https://github.com/erosson/freecbt
+
+https://www.get.gg/  <-- Amazing downloadable and printable resources
