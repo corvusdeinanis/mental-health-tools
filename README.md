@@ -1,6 +1,7 @@
 # mental-health-tools
 Mental health tools curated from around the web
 
+Feelings Wheel by a-wylie - https://github.com/a-wylie
 
 <u>Some cool links</u>
 
