@@ -1,0 +1,13 @@
+#rotate-this{
+  width: 700px;
+  height: auto;
+  padding: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+}
+
+.wheel-container{
+  margin: 0 auto;
+}
